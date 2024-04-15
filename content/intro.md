@@ -70,6 +70,10 @@
 
 ---
 
+# How
+
+---
+
 ### What are we working on?
 
 <div style="display: grid;grid-column-gap: 1%; grid-auto-columns: 60% 50%;">
@@ -126,14 +130,14 @@ DFD components
 
 ## What are we going to do about it?
 
+- Good idea to indicate severity to help with prioritizations
 - Addressing the threats
   - Decide on a strategy (mitigate, eliminate, accept, transfer)
-- Good idea to indicate severity to help with prioritizations
 - Check/verify assumptions
 
 ---
 
-## Did we do a good enough job
+## Did we do a good enough job?
 
 <div><!-- .element: style="font-size:0.75em"-->
 
