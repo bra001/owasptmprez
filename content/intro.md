@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="content/images/OWASP_Full_Logo_R_Black.png" data-background-size="20%" data-background-position="right 2% top 2%"-->
+<!-- .slide: data-background-image="content/images/OWASP_Full_Logo_R_White.png" data-background-size="20%" data-background-position="right 2% top 2%"-->
 
 # OWASP Stavanger 
 ## Chapter Meetup 
@@ -20,6 +20,23 @@
 > Threat modeling is analyzing representations of a system to highlight concerns about security and privacy characteristics.
 
 -[Threat Modeling Manifesto](https://www.threatmodelingmanifesto.org/)<!-- .element: style="font-size:0.8em"-->
+
+---
+
+## Why
+<div><!-- .element: style="font-size:0.75em"-->
+
+- Detect design and implementation issues <!-- .element: class="fragment" data-fragment-index="1" -->
+- Efficient investment of resources, appropriately prioritize security tasks <!-- .element: class="fragment" data-fragment-index="2" -->
+  - Based on business requirements (Goals)
+  - Driven by risk
+  - Identify where building a control is unnecessary, based on acceptable risk
+- Provide evidence that security and privacy is built into our designs <!-- .element: class="fragment" data-fragment-index="3" -->
+- Cultivate a collective understanding of the system among team members <!-- .element: class="fragment" data-fragment-index="4" -->
+  - Raise awareness and educate about security and privacy importance
+- Implement a consistent approach to security <!-- .element: class="fragment" data-fragment-index="5" -->
+
+</div>
 
 ---
 
@@ -47,7 +64,7 @@
 
 <div><!-- .element: style="font-size:0.75em"-->
 
-Like using a compass during a hike, frequent threat modeling helps you stay on the right path towards your security goals. <!-- .element: class="fragment" data-fragment-index="4" -->
+🧀 Like using a compass during a hike, frequent threat modeling helps you stay on the right path towards your security goals. <!-- .element: class="fragment" data-fragment-index="4" -->
 
 </div>
 
